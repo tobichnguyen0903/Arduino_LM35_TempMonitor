@@ -82,3 +82,9 @@ Arduino\_LM35\_TempMonitor/
 
 * Đỗ Thị Hồng Như (SV B): Cải tiến giao thức JSON, xử lý xung đột code
 
+
+
+\## Tac gia
+
+\[Tô Bích Nguyên](https://tobichnguyen090306.github.io) - Sinh vien PTIT
+
