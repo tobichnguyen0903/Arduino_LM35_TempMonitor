@@ -86,5 +86,5 @@ Arduino\_LM35\_TempMonitor/
 
 \## Tac gia
 
-\[Tô Bích Nguyên](https://tobichnguyen090306.github.io) - Sinh vien PTIT
+\[Tô Bích Nguyên] (https://tobichnguyen0903.github.io) - Sinh vien PTIT
 
